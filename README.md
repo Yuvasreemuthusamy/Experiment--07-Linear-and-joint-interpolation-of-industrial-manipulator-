@@ -1,5 +1,9 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
+###  DATE: 29-04-2024
+###  NAME: Yuva Sree M 
+###  ROLL NO : 212223230251
+###  DEPARTMENT: AI-DS
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
